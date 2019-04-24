@@ -48,4 +48,4 @@ def encode(text):
 				print(' ', end="")
 	print('')
 
-encode("exemple de texte")
+encode("votre texte ici")
