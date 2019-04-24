@@ -48,4 +48,4 @@ def decode(text):
 				print(' ', end="")
 	print('')
 
-decode("rgfsqdhlhi")
+decode("exemple de texte")
