@@ -40,7 +40,7 @@ dico = [
 # for a, b in dico:
 # 	print(a, b)
 
-def decode(text):
+def encode(text):
 	for l in text:
 		for a, b in dico:
 			if l == a:
@@ -48,4 +48,4 @@ def decode(text):
 				print(' ', end="")
 	print('')
 
-decode("exemple de texte")
+encode("exemple de texte")
