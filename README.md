@@ -1,5 +1,4 @@
-# Morse-Encoder
-Traducteur simple de code morse international en texte alphanumérique (*et vice-versa*)...
+Morse-EncoderTraducteur simple de code morse international en texte alphanumérique (*et vice-versa*)...
 
 ![...](https://img.shields.io/badge/python-3-blue.svg)
 
