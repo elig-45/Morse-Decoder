@@ -1,4 +1,4 @@
-# Morse-Encoder
+# Morse Translater
 Traducteur simple de code morse international en texte alphanumérique (*et inversement*).
 
 ![...](https://img.shields.io/badge/python-3-blue.svg)
